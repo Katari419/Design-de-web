@@ -1,0 +1,22 @@
+<html lanq="pt-br">
+<head>
+<style>
+button {
+   color: white;
+   background: blue;
+   transition: background 1s;
+}
+button: hover,
+button: foccus {
+background: red;
+}
+
+</style>
+</head>
+<body>
+
+<button> 
+   uuu adivinha quem é um botão??
+</button>
+</body>
+</html>
